@@ -1,0 +1,10 @@
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\bin\Debug\BrushTitle.exe.config
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\bin\Debug\BrushTitle.exe
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\bin\Debug\BrushTitle.pdb
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\obj\Debug\BrushTitle.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\obj\Debug\BrushTitle.AddQuestion.resources
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\obj\Debug\BrushTitle.main.resources
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\obj\Debug\BrushTitle.Properties.Resources.resources
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\obj\Debug\BrushTitle.csproj.GenerateResource.Cache
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\obj\Debug\BrushTitle.exe
+E:\Projects\VisualStudio\BrushTitle\BrushTitle\obj\Debug\BrushTitle.pdb
